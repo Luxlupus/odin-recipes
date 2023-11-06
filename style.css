@@ -1,0 +1,31 @@
+body {
+    font-family:Verdana, Tahoma, sans-serif;
+    background-color: whitesmoke;
+    line-height: 150%;
+}
+h1 {
+    text-align: center;
+    margin: auto;
+    border-style: outset;
+    border-width: 5px;
+    padding: 5%;
+    background-color:rgba(28, 168, 107, 0.562);
+    font-weight: 800;
+}
+ul {
+    
+    text-decoration: none;
+    list-style: none;
+    text-align: left;
+}
+
+a {
+    text-decoration: none; 
+    color: black;
+}
+button {
+    background-color: rgba(28, 168, 107, 0.562);
+    font-size: 20px;
+    border-style: outset;
+    border-width: 5px;
+}
